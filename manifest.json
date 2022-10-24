@@ -1,0 +1,21 @@
+{
+  "short_name": "GRADE 12",
+  "name": "GRADE 12",
+  "description": "NOVEMBER 2022 MULTIPLE CHOICE QUESTIONS",
+  "icons": [
+    {
+      "src": "images192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "images512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.php",
+  "background_color": "#000",
+  "display": "standalone",
+  "theme_color": "#000"
+}
