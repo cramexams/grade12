@@ -27,7 +27,7 @@
             <h1>GRADE 12</h1>
             <p>November 2022</p>
             <p>Multiple Choice Questions</p>
-            <a href="./home_images/login.php" class="btn" id="login">Start...</a>
+            <a href="https://www.grade12.xyz/" class="btn" id="login">Start...</a>
         </div>
     </div>
     <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
